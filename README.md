@@ -47,3 +47,7 @@ Backend: http://localhost:4100
 - `npm run lighthouse`
 - Lighthouse dans le navigateur Chrome
 - EcoIndex via l'extension ou le site dedie
+
+### Commande Cloudflare
+
+npx cloudflared tunnel --url http://localhost:5173/
